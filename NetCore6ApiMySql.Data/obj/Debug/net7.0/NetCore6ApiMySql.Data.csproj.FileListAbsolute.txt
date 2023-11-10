@@ -1,0 +1,15 @@
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.csproj.AssemblyReference.cache
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.AssemblyInfoInputs.cache
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.AssemblyInfo.cs
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\bin\Debug\net7.0\NetCore6ApiMySql.Data.deps.json
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\bin\Debug\net7.0\NetCore6ApiMySql.Data.dll
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\bin\Debug\net7.0\NetCore6ApiMySql.Data.pdb
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\bin\Debug\net7.0\NetCore6ApiMySql.Model.dll
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\bin\Debug\net7.0\NetCore6ApiMySql.Model.pdb
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.csproj.CopyComplete
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.dll
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\refint\NetCore6ApiMySql.Data.dll
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\NetCore6ApiMySql.Data.pdb
+C:\Users\Nesty\Desktop\NetCore6ApiMySql\NetCore6ApiMySql.Data\obj\Debug\net7.0\ref\NetCore6ApiMySql.Data.dll

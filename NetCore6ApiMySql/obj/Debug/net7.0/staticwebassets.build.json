@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xUXmtPRyKD4JGdRFyZ7QrNptbnbL0qVeeSUoIf3rZ78=",
+  "Source": "NetCore6ApiMySql",
+  "BasePath": "_content/NetCore6ApiMySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
